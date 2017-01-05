@@ -1,7 +1,6 @@
 # Compiled Object files
 *.slo
 *.lo
-*.o
 *.obj
 
 # Precompiled Headers
@@ -82,6 +81,6 @@ $RECYCLE.BIN/
 .vscode/
 # Genarated (Binary) files and executables
 sort
-*.o
-*.bin
+code/*.o
+/*.bin
 *.txt
